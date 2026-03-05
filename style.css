@@ -12,5 +12,9 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Segore UI', 'sans-serif';
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
     
 }
