@@ -1,0 +1,8 @@
+:root{
+   --primavera-btn: #f508b6;
+   --verano-btn: #f9e218f1;
+
+   --transicion: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+   
+
+}
