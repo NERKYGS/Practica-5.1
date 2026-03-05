@@ -4,5 +4,13 @@
 
    --transicion: all 0.8s cubic-bezier(0.4, 0, 0.2, 1);
    
+}
 
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
